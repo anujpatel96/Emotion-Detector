@@ -1,1 +1,1 @@
-![Local Image](./deployment.jpg)
+![Local Image](./deployment.png)
